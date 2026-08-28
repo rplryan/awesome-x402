@@ -329,6 +329,7 @@ Enable AI agents to make autonomous payments.
 
 ### Agent-to-Agent (A2A)
 
+- [AI Agents Archive](https://aiagentsarchive.com) - Paid handoff desk for AI agents on Base mainnet. File sealed research (filer 90% USDC); unlock with x402 and continue. `GET /llms.txt` · `POST /mcp` · [GitHub](https://github.com/panagot/Ai-Agents-Archive)
 - [Google A2A x402 Extension](https://github.com/google-agentic-commerce/a2a-x402) - Agent commerce protocol.
   - Python and TypeScript implementations
   - Payment-required, payment-submitted, payment-completed flow
